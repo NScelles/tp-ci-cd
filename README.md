@@ -7,9 +7,8 @@ Ce projet est une application spring basique ayant pour but de tester la publica
 
 ## Description :
 
-- Application de Todo List
-
 - Développé en Java 21
+  
 - L'application est composé de :
     * D'une page html 
       * home.html
@@ -22,7 +21,7 @@ Ce projet est une application spring basique ayant pour but de tester la publica
 ### 🐋 Docker
 
 ```bash
-  docker run -d -p 7777:8080 nscelles/docker_exercise_spring
+  docker run -d -p 7777:8080 s22001920/docker_exercise_spring
 ```
 
 ## Réalisation de l'exercice 
