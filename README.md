@@ -9,8 +9,7 @@ Ce projet est une application spring basique ayant pour but de tester la publica
 
 - Application de Todo List
 
-- Développé en Java dans la version Correto 17
-
+- Développé en Java 21
 - L'application est composé de :
     * D'une page html 
       * home.html
